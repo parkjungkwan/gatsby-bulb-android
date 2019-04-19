@@ -1,0 +1,41 @@
+{
+  "project_info": {
+    "project_number": "137768630328",
+    "firebase_url": "https://holywood-chatbot.firebaseio.com",
+    "project_id": "holywood-chatbot",
+    "storage_bucket": "holywood-chatbot.appspot.com"
+  },
+  "client": [
+
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:137768630328:android:f90ade5a61117e9f",
+        "android_client_info": {
+          "package_name": "app.holywood.com.holywoodchatbot"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "137768630328-8pspk88018cu28n60ucodofnsk05a1r8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyClw-83RN4S3er2f-zlcLRMjlAhuMdh5fo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "137768630328-8pspk88018cu28n60ucodofnsk05a1r8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
